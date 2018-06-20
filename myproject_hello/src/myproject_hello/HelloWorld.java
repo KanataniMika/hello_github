@@ -7,7 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello World!!!");
 		System.out.println("Hello World2!!!");
 		System.out.println("Hello World3!!!");
-		System.out.println("公開リポジトリ修正");
+		System.out.println("aaa");
 	}
 
 }
